@@ -1,0 +1,45 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 8rem;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative; right: 300px;
+
+}
+
+.logo-text {
+    font-size: 4rem;
+    font-weight: 300;
+    color: #6C63FF;
+    
+     
+}
+
+.nav-links{
+    display: flex;
+    color: black;
+}
+
+.nav-links li{
+    margin-left: 3rem;
+    
+    list-style: none;
+}
+
+.nav-links a{
+    font-size: 1.6rem;
+    font-weight: 300;
+    color: black;
+    text-decoration: none;
+    position: relative; left: 250px;
+}
+
+.nav-links a:hover{
+    color: red;
+}

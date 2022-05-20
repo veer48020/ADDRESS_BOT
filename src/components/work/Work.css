@@ -1,0 +1,56 @@
+.title{
+    text-align: center;
+    
+    position: relative;
+    bottom: 150px;
+    
+
+
+}
+
+.title h1{
+    font-size: 4rem;
+    font-weight: 700;
+    line-height: 1.4;
+    color: #2C2C2C;
+    margin: 200px 0;
+    position: relative;
+    bottom: 75px;
+
+    
+}
+
+.imageContainer{
+    float: left;
+    height: 200;
+    width: 200;
+    margin-right: 120px;
+    position: relative;
+    left: 150px;
+    bottom: 350px;
+}
+.imageContainer p{
+    text-align: center;
+}
+
+.imageContainer img{
+    margin: 4rem 0;
+}
+
+.one{
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+
+.pic{
+    height: 90%;
+    position: relative;
+    left: 60px;
+}
+
+.skt{
+    position: relative;
+    left: 20px;
+}
+

@@ -1,0 +1,47 @@
+.upload{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    
+    
+}
+
+.upload h1 {
+    font-size: 3.2rem;
+    font-weight: 1200;
+    line-height: 1.4;
+    color: #2C2C2C;
+    position: relative;
+    padding-bottom: 2rem;
+    right: 270px;
+    top: 30px;
+}
+
+.upload h1 span {
+    display: block;
+}
+
+.upload-left p{
+    position: relative;
+    margin: 3rem 0;
+    width: 150%;
+    font-size: 2rem;
+    right: 270px;
+    
+}
+
+
+
+.upload-right img{
+    position: relative;
+    left: 200px;
+    width: 80%;
+    
+}
+
+
+.upload-left{
+    position: relative;
+    left: 50px;
+    top: 50px;
+}

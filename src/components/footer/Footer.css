@@ -1,0 +1,71 @@
+footer#footer{
+    background: grey;
+    width: 100%;
+    padding: 8rem 0;
+}
+
+.footer{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+    row-gap: 2rem;
+    column-gap: 2rem;
+}
+.footer-links {
+    position: relative;
+    right: 1190px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 2%;
+    color: white;   
+} 
+
+.container footer p{
+    position: relative;
+    right: 100px;
+}
+
+a{
+    font-size: 2rem;
+    padding-top: 1%;
+    color: white;
+}
+
+.logos_one{
+    position: relative;
+    left: 1500px;
+}
+
+
+
+
+ .logo-text-one {
+        color: white;
+        position: relative;
+        left: 100px;
+        font-size: 4rem;
+        
+         
+}
+
+
+
+.footer-last{
+    position: relative;
+    right: 1100px;
+}
+
+.two{
+    font-size: 1.5rem;
+    color: white;
+    position: relative;
+    right: 100px;
+}
+
+.four{
+    font-size: 1.5rem;
+    position: relative;
+    left: 235px;
+    top: 20px;
+    color: white;
+}
+
