@@ -22,11 +22,12 @@
     display: block;
 }
 
+
 .header-left p{
     position: relative;
-    margin: 3rem 0;
+    margin: 2rem 0;
     width: 150%;
-    font-size: 2rem;
+    font-size: 1.8rem;
     right: 270px;
     top: 45px;
 }
@@ -37,14 +38,14 @@ input[type="text"]
     height:40px;
     position: relative;
     right: 270px;
-    top: 65px;
+    top: 50px;
 }
 
 button
 {
     position:absolute;
     left: 120px;
-    top:225px;
+    top:187px;
     width: 100px; 
     height: 30px; 
     background-color: yellow; 
@@ -61,7 +62,7 @@ h2 {
     text-align: center;
     font-size: large;
     padding-top: 50px;
-    margin-top: 40px;
+    font-weight: 1000;
   }
 
  .wrapper{
@@ -76,6 +77,14 @@ h2 {
  .header-left{
      position: relative;
      left: 50px;
+     bottom: 50px;
  }
 
+ .header h3{
+     position: relative;
+     top: 70px;
+     right: 250px;
+     font-weight: 400;
+ }
+ 
  

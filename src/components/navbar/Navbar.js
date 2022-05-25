@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className= "logo">
          <MdLocationOn color="#6C63FF" size={66}/>
          <p className="logo-text">
-           UK ADDRESS BOT
+            ADDRESS BOT
          </p>
       </div>
       <menu>

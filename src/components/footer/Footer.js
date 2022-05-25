@@ -9,12 +9,13 @@ const Footer = () => {
     <footer id="footer">
       <div className="container footer">
         <div className="footer-last">
-        <div className= "logo">
+        <div className= "logo_two">
          <MdLocationOn color="white" size={66}/>
+         </div>
          <p className="logo-text-one">
-           UK ADDRESS BOT
+            ADDRESS BOT
          </p>
-      </div>
+      
          <p className="two">Powered By Mobius Knowledge Services</p>
           
         </div>
@@ -22,18 +23,18 @@ const Footer = () => {
       </div>
 
       <div className="footer-links">
-      <a href="#">About Us</a>
-      <a href="#">Careers</a>
-      <a href="#">Our Customers</a>
-      <a href="#">Contact </a>
-      <a href="#">Privacy policy</a>
+      <a>About Us</a>
+      <a>Careers</a>
+      <a>Our Customers</a>
+      <a>Contact </a>
+      <a>Privacy policy</a>
       </div>
+    <div className="hori">
+       <hr>
 
-     <hr>
-
-      
-
-     </hr>
+      </hr>
+    </div>
+    
 
      <p className="four"> © 2022 Mobius Knowledge Services.All Rights Reserved</p>
 

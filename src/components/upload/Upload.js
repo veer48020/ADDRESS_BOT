@@ -6,7 +6,7 @@ const Upload = () => {
   return (
     <section id="upload">
 
-    <div className="wrapper">
+    <div className="wrapper1">
 
     <div className="container upload">
 

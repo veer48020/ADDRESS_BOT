@@ -19,7 +19,7 @@ const Work = () => {
       <div className="image123">
         <div className="imageContainer">
           
-          <img src={globe}></img>
+          <img className="image1" src={globe}></img>
           <p className="one">Share Website</p>
           
           <p>Paste a valid website URL</p>

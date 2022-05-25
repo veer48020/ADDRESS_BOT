@@ -1,7 +1,10 @@
 footer#footer{
     background: grey;
     width: 100%;
-    padding: 8rem 0;
+    height: 200%;
+    padding: 4rem 0;
+    
+    position: relative;
 }
 
 .footer{
@@ -12,11 +15,12 @@ footer#footer{
 }
 .footer-links {
     position: relative;
-    right: 1190px;
+    right: 1230px;
     display: flex;
     flex-direction: column;
     padding-top: 2%;
-    color: white;   
+    color: white; 
+    bottom: 20px;  
 } 
 
 .container footer p{
@@ -41,8 +45,9 @@ a{
  .logo-text-one {
         color: white;
         position: relative;
-        left: 100px;
+        right: 120px;
         font-size: 4rem;
+        bottom: 50px;
         
          
 }
@@ -58,14 +63,27 @@ a{
     font-size: 1.5rem;
     color: white;
     position: relative;
-    right: 100px;
+    right: 150px;
+    bottom: 40px;
 }
 
 .four{
     font-size: 1.5rem;
     position: relative;
-    left: 235px;
+    left: 195px;
     top: 20px;
     color: white;
+}
+
+.logo_two{
+    position: relative;
+    right: 180px;
+    top: 20px;
+}
+
+.hori{
+    width: 80%;
+    left: 190px;
+    position: relative;
 }
 

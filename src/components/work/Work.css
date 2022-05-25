@@ -2,7 +2,7 @@
     text-align: center;
     
     position: relative;
-    bottom: 150px;
+    bottom: 300px;
     
 
 
@@ -10,14 +10,11 @@
 
 .title h1{
     font-size: 4rem;
-    font-weight: 700;
+    font-weight: 500;
     line-height: 1.4;
     color: #2C2C2C;
-    margin: 200px 0;
-    position: relative;
-    bottom: 75px;
-
-    
+    margin: 100px 0;
+    position: relative; 
 }
 
 .imageContainer{
@@ -26,8 +23,8 @@
     width: 200;
     margin-right: 120px;
     position: relative;
-    left: 150px;
-    bottom: 350px;
+    left: 100px;
+    bottom: 380px;
 }
 .imageContainer p{
     text-align: center;
@@ -51,6 +48,10 @@
 
 .skt{
     position: relative;
-    left: 20px;
+    left: 35px;
+}
+.image1{
+    position: relative;
+    left: 10px;
 }
 
