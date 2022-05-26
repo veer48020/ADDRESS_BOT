@@ -21,7 +21,7 @@ const Header = () => {
            <p>Paste the website URL</p>
    
            <input type="text" />
-           <button>Search</button>
+           <button>Search </button>
            <h3>
              (Only Supports UK Address)
            </h3>
