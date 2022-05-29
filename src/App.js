@@ -20,6 +20,7 @@ function App() {
       <Upload/>
       <Work/>
       <Footer/>
+      
     </main>
   );
 }
